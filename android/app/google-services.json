@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173165737771",
+    "project_id": "filmler-a9f90",
+    "storage_bucket": "filmler-a9f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173165737771:android:8d75ff79367da063d9f76e",
+        "android_client_info": {
+          "package_name": "com.example.filmler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wufkKXn57OF2-qPIhlhf6NUkod2fHQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
